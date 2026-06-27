@@ -7,5 +7,5 @@
   "threads": 6,
   "save_rate": 10,
   "pgnout": "tuner/games.pgn",
-  "use_fastchess": true
+  "use_fastchess": false
 }
