@@ -1,10 +1,10 @@
 {
   "engine": "engine",
   "book": "book.epd",
-  "games": 16,
+  "games": 20,
   "tc": 5,
   "hash": 8,
-  "threads": 6,
+  "threads": 8,
   "save_rate": 10,
   "pgnout": "tuner/games.pgn",
   "use_fastchess": false
