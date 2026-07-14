@@ -1,7 +1,7 @@
 {
   "engine": "engine",
   "book": "book.epd",
-  "games": 22,
+  "games": 32,
   "tc": 5,
   "hash": 8,
   "threads": 14,
